@@ -8,3 +8,7 @@ print("Modified")
 
 print("Edit on Github")
 print("other divice test complete")
+
+some_change = None
+print(some_change)
+some_change = "some"
