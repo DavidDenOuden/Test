@@ -7,3 +7,4 @@ print("Hello world")
 print("Modified")
 
 print("Edit on Github")
+print("other divice test complete")
